@@ -90,7 +90,7 @@ B.Tech CSE @ MNNIT Allahabad | Full Stack Developer | DSA Enthusiast
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Yalnaaz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Yalnaaz&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Yalnaaz&layout=compact&theme=tokyonight"/>
 
