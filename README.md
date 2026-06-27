@@ -135,7 +135,7 @@ B.Tech CSE @ MNNIT Allahabad | Full Stack Developer | Competitive Programmer
 
 <p align="center">
 
-"First, solve the problem. Then, write the code." 
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 
 </p>
 
