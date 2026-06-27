@@ -118,15 +118,6 @@ B.Tech CSE @ MNNIT Allahabad | Full Stack Developer | DSA Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Yalnaaz&theme=tokyonight&margin-w=10&margin-h=10"/>
-
-</p>
-
----
 
 # 📊 Profile Summary
 
