@@ -1,114 +1,101 @@
-# Hi there, I'm Mohammad Yalnaaz 👋
+
+<h1 align="center">Hi 👋, I'm Mohammad Yalnaaz</h1>
 
 <h3 align="center">
-B.Tech CSE @ MNNIT Allahabad | Full Stack Developer | DSA Enthusiast
+B.Tech CSE @ MNNIT Allahabad | Full Stack Developer | Competitive Programmer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Competitive+Programmer;Node.js+%7C+Express.js+%7C+MongoDB;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;React+Learner;Competitive+Programmer;Always+Learning+New+Things"/>
+</p>
+
+<p align="center">
+
+
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Mohammad-Yalnaaz&style=for-the-badge&color=blue"/>
+
 </p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE student at **MNNIT Allahabad**
-- 🌱 Currently learning **Backend Development (Node.js, Express.js, MongoDB)** and **React**
-- 💻 Solving DSA problems regularly on LeetCode & CodeChef
-- 🚀 Interested in Full Stack Development and System Design
+- 🎓 B.Tech CSE @ **MNNIT Allahabad**
+- 💻 Passionate about Backend Development & DSA
+- 🌱 Currently learning MERN Stack
+- 🚀 Building Full Stack Projects
 - 📫 Email: **mohdyalnaaz@gmail.com**
-- ⚡ Fun Fact: I love building projects and solving coding challenges.
+- ⚡ Fun Fact: *Code. Learn. Build. Repeat.*
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://linkedin.com/in/mohd-yalnaaz">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:mohdyalnaaz@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Mohammad-Yalnaaz">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Coding Profiles
+# 🏆 Coding Profiles
 
-<p align="left">
+<p align="center">
 
 <a href="https://leetcode.com/Mohammad_Yalnaaz">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://www.codechef.com/users/casper_786">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
 </a>
 
 </p>
 
 ---
 
-# 🚀 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,javascript,html,css"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
-
----
-
-# 📊 GitHub Stats
+# 💻 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Yalnaaz&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Yalnaaz&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman,tailwind"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mohammad-Yalnaaz&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Yalnaaz&show_icons=true&theme=tokyonight"/>
+
+<img width="51%" src="https://streak-stats.demolab.com?user=Mohammad-Yalnaaz&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Yalnaaz&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -119,17 +106,22 @@ B.Tech CSE @ MNNIT Allahabad | Full Stack Developer | DSA Enthusiast
 ---
 
 
-# 📊 Profile Summary
+# 📊 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Yalnaaz&theme=tokyonight"/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Yalnaaz&layout=compact&theme=github_dark"
+    width="380"
+  />
+</p>
 
 </p>
 
 ---
 
-# 📈 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -139,10 +131,12 @@ B.Tech CSE @ MNNIT Allahabad | Full Stack Developer | DSA Enthusiast
 
 ---
 
-### ✨ Quote
+# 💡 Quote
 
-> *"Code. Learn. Build. Repeat."*
+<p align="center">
+
+"First, solve the problem. Then, write the code." 
+
+</p>
 
 ---
-
-![](https://komarev.com/ghpvc/?username=Mohammad-Yalnaaz&color=blueviolet&style=for-the-badge)
